@@ -1,0 +1,38 @@
+.header {
+    color: teal;
+    font-size: 30px;
+    text-align: center;
+}
+
+.instructions {
+    color: palevioletred;
+    text-align: center;
+}
+
+ol, li {
+    color: palevioletred;
+    
+}
+
+ul {
+    color: palevioletred;
+    margin-left: 200px;
+}
+
+.numberToMatch {
+    text-align: center;
+    color: teal;
+}
+
+.numberWins{
+    color: seagreen;
+}
+
+.crystals {
+    text-align: center;
+}
+
+.userTotal {
+    text-align: center;
+    color: teal;
+}
